@@ -1,21 +1,6 @@
 # Kaprekar Numbers
 
-## About Kaprekar Numbers
-### General Equation:
-
-![equation](http://www.sciweavers.org/tex2img.php?eq=X%5E2%20%3D%20A%28b%5En%29%20%2B%20B&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
-and
-![equation](http://www.sciweavers.org/tex2img.php?eq=X%20%3D%20A%20%2B%20B&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
-
-Where ***X*** is the ***n***-th Kaprekar number in base ***b***.
-
-In English, a number *n* is a Kaprekar number if its square can be segmented into two parts whose sum equals *n*.
-
-### Examples: 
-
-![equation](http://www.sciweavers.org/tex2img.php?eq=2%2810%5E3%29%20%2B%20025%20%3D%202025%20%3D%2045%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0), and ![equation](http://www.sciweavers.org/tex2img.php?eq=45%20%3D%2020%20%2B%2025&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
-
-So 45 is the 3rd Kaprekar number in base 10
+Read about them here: https://en.wikipedia.org/wiki/Kaprekar_number
 
 ### Sequence
 All Kaprekar numbers between 1 and 50,000,000:
