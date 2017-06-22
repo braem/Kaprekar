@@ -13,7 +13,7 @@ In English, a number *n* is a Kaprekar number if its square can be segmented int
 
 ### Examples: 
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=45%5E2%20%3D%202025%20%3D%202%2810%5E3%29%20%2B%20025%2C%2045%20%3D%2020%20%2B%2025&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![equation](http://www.sciweavers.org/tex2img.php?eq=45%5E2%20%3D%202025%20%3D%202%2810%5E3%29%20%2B%20025&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0), and ![equation](http://www.sciweavers.org/tex2img.php?eq=45%20%3D%2020%20%2B%2025&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 So 45 is the 3rd Kaprekar number in base 10
 
