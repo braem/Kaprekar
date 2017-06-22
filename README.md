@@ -1,6 +1,6 @@
-# Kaprekar's Numbers
+# Kaprekar Numbers
 
-## About Kaprekar's Numbers
+## About Kaprekar Numbers
 ### General Equation:
 
 ![equation](http://www.sciweavers.org/tex2img.php?eq=X%5E2%20%3D%20A%28b%5En%29%20%2B%20B&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
